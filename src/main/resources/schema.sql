@@ -1,6 +1,5 @@
-CREATE TABLE stock(
-	stock_id int,
-	company_name varchar2(50),
-	symbol varchar2(10),
-	price decimal(10,2)
+CREATE TABLE articles(
+	article_id int,
+	title varchar2(50),
+	summary varchar2(50)
 );

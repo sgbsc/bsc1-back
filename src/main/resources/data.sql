@@ -1,3 +1,3 @@
-INSERT INTO stock values(1, 'VMWare', 'VMW', 56.05);
-INSERT INTO stock values(1, 'AT&T', 'T', 38.74);
-INSERT INTO stock values(1, 'Facebook', 'FB', 118.25);
+INSERT INTO articles values(1, 'Title 1', 'This is Summary 1.');
+INSERT INTO articles values(2, 'Title 2', 'Here is Summary 2.',);
+INSERT INTO articles values(3, 'Title 3', 'Summary 3 is here.',);
