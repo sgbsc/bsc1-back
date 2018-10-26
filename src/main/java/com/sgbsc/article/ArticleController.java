@@ -16,18 +16,16 @@ public class ArticleController {
 	@Autowired
 	private JdbcTemplate template;	
 	
-	@RequestMapping("/articles1")
+	@RequestMapping("/articles")
 	public String getArticles(Map<String, Object> model) {
 		
+		//get all the articles
 		List<Map<String,Object>> articles = template.queryForList("select * from articles");
-		model.put("articles", articles);
-		return "articles";
-	}
-	
-	@RequestMapping("/articles2")
-	public String getArticles(Model model) {
 		
-		model.addAttribute("a","b");
+		//put the articles in the model so that we can access them in the Thymeleaf template
+		model.put("articles", articles);
+		
+		//return the name of the template
 		return "articles";
 	}
 	
