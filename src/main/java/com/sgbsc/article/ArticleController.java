@@ -6,9 +6,18 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/*
+ * This @Controller is backed by the h2 database (specified in data.sql and schema.sql),
+ * and uses the articles.html Thymeleaf template.
+ * 
+ * The @RequestMapping("/articles") specified the name.
+ * 
+ * We use the JdbcTemplate to retrieve the data, and the model is a map avaialable to
+ * the template to display the results.
+ *
+ */
 
 @Controller
 public class ArticleController {
