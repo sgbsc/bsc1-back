@@ -16,4 +16,6 @@ public class Articles {
 	private String title;
 	
 	private String summary;
+	
+	private String tag;
 }
