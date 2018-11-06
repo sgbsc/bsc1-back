@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="/css/bsc1.css"/>
+</head>
+<body>
+<h1>Articles template</h1>
+ <table class="redTable">
+ <thead>
+ <tr>
+ <th>Title</th>
+ <th>Summary</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr th:each="article : ${articles}">
+ <td th:text="${article.title}">Title ...</td>
+ <td th:text="${article.summary}">Summary ...</td>
+ </tr>
+ </tbody>
+ </table>
+</body>
+</html>

@@ -1,9 +1,17 @@
 package com.sgbsc;
 
+import java.util.List;
+import java.util.Map;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.sgbsc.article.Articles;
 
 /*
  * This is a @Controller for two static webpages.
@@ -35,10 +43,27 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @SpringBootApplication
 @Controller
 public class Bsc1Application {
+	
+	//performs persistence operations between orm and database
+	@Autowired
+	private EntityManager em;
 
 	@RequestMapping("/hello-template")
 	public String helloTemplate() {
 		return "hello-template";
+	}
+	
+	@RequestMapping("/jpa-articles")
+	public String articles(Map<String, Object> model){
+		
+		//get all the articles
+		List<Articles> articles = em.createQuery("select a from Articles a").getResultList();
+		
+		//put the articles in the model so that we can access them in the Thymeleaf template
+		model.put("articles", articles);
+		
+		return "jpa-articles";
+		
 	}
 	
 	public static void main(String[] args) {
