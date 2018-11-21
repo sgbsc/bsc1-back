@@ -1,0 +1,185 @@
+<div class="paditembox">
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46264383" class="item">Nasa 2020 robot rover to target Jezero 'lake' crater</a><br><div>America's next robot rover will be sent to a 50km-wide depression that once had water running through it.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-46261009" class="item">The physicist called Einstein - but not the one you think</a><br><div>There is debate around how much Albert Einstein's first wife, Mileva, contributed to his discoveries.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46274158" class="item">Elon Musk renames his BFR spacecraft Starship</a><br><div>The entrepreneur would not reveal why he had renamed the craft, which has still not yet been built.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-us-canada-46284236" class="item">E. coli outbreak: Romaine lettuce probed in US and Canada</a><br><div>At least 50 people in the US and Canada have been infected, health officials say.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-asia-46275742" class="item">Dead sperm whale found in Indonesia had ingested '6kg of plastic'</a><br><div>The dead sperm whale, which washed ashore in Indonesia, had ingested nearly 6kg of plastic waste.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46263770" class="item">Climate change: Report raises new optimism over industry</a><br><div>Cutting emissions from heavy industry would generate savings and boost economic growth, commission argues.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46263970" class="item">UK industry to make new 'Hotbirds'</a><br><div>British industry will build new spacecraft for telecoms operator Eutelsat's flagship TV distribution network.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-australia-46258616" class="item">Wombat poop: Scientists reveal mystery behind cube-shaped droppings</a><br><div>Scientists discover how the marsupials are the only known species producing cube-shaped faeces.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-england-norfolk-45959914" class="item">Ash dieback: Seed orchards could help species recover sooner</a><br><div>A scientist at the John Innes Centre in Norwich says resistant seeds could help beat the fatal disease.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46143399" class="item">Kilogram gets a new definition</a><br><div>Scientists take the massive decision to change the definition of the kilogram.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46181450" class="item">Greenland ice sheet hides huge 'impact crater'</a><br><div>Scientists find evidence that an iron asteroid slammed into the Earth deep inside the Arctic Circle.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46212844" class="item">Climate change: Worries over CO2 emissions from intensifying wildfires</a><br><div>Rising numbers of extreme wildfires could result in a significant increase in CO₂ emissions, scientists have warned.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46196279" class="item">Exoplanet discovered around neighbouring star</a><br><div>Astronomers have discovered a planet around one of the closest stars to our Sun.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46214864" class="item">Climate change: Report says 'cut lamb and beef'</a><br><div>The number of sheep and cattle in the UK should be reduced to help combat climate change, a report says.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46199100" class="item">'Conservation successes' bring hope for mountain gorilla</a><br><div>Mountain gorilla: Conservation efforts appear to be paying off for large, charismatic animals.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46202255" class="item">South Pole: Rock 'hotspot' causes ice sheet to sag</a><br><div>A large area of warm rock is melting the base of the Antarctic Ice Sheet at the South Pole.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46194383" class="item">Climate change: Heatwaves 'halve' male insect fertility</a><br><div>A study of beetles could explain global decline in insects - and how heat can damage male fertility.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46187230" class="item">Badger culling has 'modest' effect in cutting cattle TB</a><br><div>An independent scientific review says badger culling can have a modest effect in reducing cattle TB.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46187670" class="item">Mystery monkey: history of unique Xenothrix fossil revealed</a><br><div>A now-extinct monkey from Jamaica had South American roots, according to new DNA evidence.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46131255" class="item">Can listening to bees help save them - and us?</a><br><div>Scientists hope artificial intelligence will gives us more insights into bee health and behaviour.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-46188354" class="item">No 'flushable' wet wipes tested so far pass water industry tests</a><br><div>They say wet wipes don't break down and so cause sewage blockages which cost millions to put right.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-politics-46172661" class="item">Climate change protests leads to '22 arrests' over blockade</a><br><div>The chained-together demonstrators are blockading the government energy department in London.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46150548" class="item">Badger cull: Vets accuse ministers of 'barefaced lies'</a><br><div>Campaigners accuse the government of telling "bare faced lies" about the effectiveness of badger culls.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46153727" class="item">EU moves to protect large carnivores</a><br><div>Farmers will receive 100% compensation for any damages caused by bears, wolves and other wild carnivores.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46153332" class="item">ExoMars: Life-detecting robot to be sent to Oxia Planum</a><br><div>The joint Europe-Russia mission to the Red Planet in 2020 will investigate an ancient water-altered terrain.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46153327" class="item">Antarctic: Nasa shares close-up photos of big PIG iceberg</a><br><div>Scientists get a decent look at the large new iceberg that's broken away from Pine Island Glacier.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46124547" class="item">Climate Change: Arctic 'no safe harbour' for breeding birds</a><br><div>Climate change could be behind declines in birds that lay their eggs on Arctic shores, a study says.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-us-canada-46150577" class="item">Keystone XL Pipeline: US judge orders halt on construction</a><br><div>Trump administration "discarded" facts about climate change when it approved the Keystone XL, says judge.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-scotland-highlands-islands-46150861" class="item">Sutherland spaceport project to move to next stage</a><br><div>The backers of the proposed satellite launch site are to hold further discussion with those who live in the area.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/entertainment-arts-46150323" class="item">Sir David Attenborough lends voice to Netflix's Our Planet series</a><br><div>The documentary will "showcase the planet's most precious species and fragile habitats", Netflix said.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46099418" class="item">Finland: Where second-hand comes first</a><br><div>As concern grows about climate change and resources, is it time to re-use more of our junk?</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-england-cambridgeshire-46144363" class="item">Stephen Hawking personal effects fetch £1.8m at auction</a><br><div>A copy of the physicist's signed PhD thesis sells for £584,750, nearly four times the guide price.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46127318" class="item">Climate change: Bug covered 'bionic mushroom' generates clean energy</a><br><div>Mushrooms for lunch inspire scientists to try to generate electricity from a fungus covered in bacteria.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46114423" class="item">'Oldest animal painting' discovered in Borneo</a><br><div>The earliest known painting of an animal has been identified in a cave on the island of Borneo.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46109393" class="item">Northern white rhino: New hopes for IVF rescue</a><br><div>A new study raises hopes of saving one of the last animals of its kind - the northern white rhino.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46113605" class="item">Metop weather satellite launches into orbit</a><br><div>Europe sends up a front-line weather satellite containing components made over a decade ago.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/newsbeat-46107843" class="item">Ozone: The Earth's protective shield is repairing</a><br><div>The ozone layer is finally healing from damage humans have caused, according to the United Nations.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46283138" class="item">The tech that could make water use sustainable</a><br><div>Scientists in Finland and the UK have built a computer model that visualises groundwater levels in real time.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46264651" class="item">Attenborough agreed with decision to save penguins' lives</a><br><div>The Dynasties crew took a rare decision to intervene when a group of stranded emperor penguins faced death.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46131792" class="item">Oldest cave painting of an animal discovered in Borneo</a><br><div>Scientists spent several days trekking through rural Borneo to find the 40,000-year-old artwork.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-45969368" class="item">Morbid exhibits of UCL's Pathology Museum</a><br><div>Christa Larwood visits the UCL Pathology Museum usually reserved for the eyes of medical students.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46086216" class="item">How to save trees from extinction</a><br><div>The world is losing plants at an unprecedented rate with around one in five thought to be at risk of extinction. The race is on to store back-up copies in seed banks.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46075239" class="item">The explosive science behind fireworks</a><br><div>Fireworks: how do they work and the science that behind them</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46074794" class="item">InSight: The jeopardy of landing on Mars</a><br><div>Nasa releases a video describing the perilous landing its InSight Mars probe will face later this month.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46063097" class="item">New £50 note will feature a British scientist</a><br><div>The Bank of England asks the public to nominate worthy candidates to feature on the new banknote.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-45720740" class="item">'Reasons to be hopeful' on 1.5C global temperature target</a><br><div>IPCC scientist says there are some positive signs about our ability to keep the global temperature rise to 1.5C</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-46262739" class="item">Edible insects</a><br><div>Sainsbury's is the first UK supermarket to stock edible insects - but just how tasty are they?</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46227763" class="item">Palm oil: One woman's fight to save 'the last place on Earth'</a><br><div>Farwiza Farhan on efforts to protect the forests where orangutan, rhinos, elephants and tigers co-exist.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46141876" class="item">Colourful dynasty</a><br><div>The endangered African wild dog will enthral TV viewers when it features in David Attenborough's new Dynasties series.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46219656" class="item">'Miniature suns'</a><br><div>Is much-heralded nuclear fusion finally ready to fulfil its promise of abundant energy for all?</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-46180368" class="item">Dr persistence</a><br><div>Sophia Jex-Blake was a pioneer of women's education on her way to be Scotland's first female doctor.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-africa-46077299" class="item">Living laboratories</a><br><div>This living laboratory could hold the key to controlling malaria and other conditions.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46101233" class="item">Red Planet</a><br><div>Hollywood director Ron Howard talked to the BBC about creating a realistic depiction of the first human colonies on Mars.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-asia-india-46135764" class="item">Delhi air</a><br><div>Some popular ways Indians try to beat air pollution - but do they really work?</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-46137804" class="item">Catching plastic</a><br><div>Microplastics have swamped our ecosystem. Can tech help prevent them entering our water systems?</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46046264" class="item">Whale watching</a><br><div>UK scientists demonstrate the practicality of identifying and counting whales from orbit.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-46070037" class="item">Who knew?</a><br><div>As Palau bans sunscreen to protect coral reefs, we look at other products causing environmental damage.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/science-environment-45870218" class="item">Nature in the lens</a><br><div>Two snub-nosed monkeys sitting on a stone is the top shot at Wildlife Photographer of the Year 2018.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/business-45527531" class="item">Big thaw</a><br><div>Melting Arctic sea ice may be about to open up the Northwest Passage to cargo shipping.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/world-43395807" class="item">Stephen Hawking: A life in pictures</a><br><div>The physicist, who battled motor neurone disease for most of his life, has died at the age of 76.</div>
+</li></ul></div>
+<div id="item"><ul><li>
+<a href="https://www.bbc.co.uk/news/uk-43396627" class="item">Stephen Hawking dies: Scientist's most memorable quotes</a><br><div>Remembering some of the key theories and quotes of the world renowned physicist, who has died.</div>
+</li></ul></div>
+</div>>

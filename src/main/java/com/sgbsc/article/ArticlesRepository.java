@@ -6,9 +6,9 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface ArticlesRepository extends JpaRepository<Articles, Integer> {
+public interface ArticlesRepository extends JpaRepository<Article, Integer> {
 
-	public Articles findByArticleId(int id);
+	public Article findByArticleId(int id);
 	
-	public List<Articles> findAll();
+	public List<Article> findAll();
 }
