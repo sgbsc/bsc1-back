@@ -15,9 +15,7 @@ public class Article {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int articleId;
-	
 	private String title;
-	
 	private String summary;
 
 	public Article() {}
